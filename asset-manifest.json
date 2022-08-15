@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/---test---Testing-Toasts-Library/static/css/main.a7d54a95.css",
+    "main.js": "/---test---Testing-Toasts-Library/static/js/main.9b7f01e9.js",
+    "index.html": "/---test---Testing-Toasts-Library/index.html",
+    "main.a7d54a95.css.map": "/---test---Testing-Toasts-Library/static/css/main.a7d54a95.css.map",
+    "main.9b7f01e9.js.map": "/---test---Testing-Toasts-Library/static/js/main.9b7f01e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7d54a95.css",
+    "static/js/main.9b7f01e9.js"
+  ]
+}
