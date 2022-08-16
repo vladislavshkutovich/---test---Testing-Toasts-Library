@@ -1,21 +1,41 @@
 import React from 'react';
-// import { ToastContainer, toast } from 'toasts-library-svs';
+import { toast, ToastContainer } from 'toasts-library-svs';
 
 function App() {
 	const handleAddToast = () => {
-		// toast.setContainer();
-		// toast.generateToast('info', 'medium', 'Info Toast Example');
+		toast.setContainer();
+		/*
+		Toast Options:
+			toastType,
+			size,
+			title,
+			titleColor,
+			backgroundColor,
+			toastAnimation,
+			toastAutoCloseIsOn,
+			toastAutoCloseTime,
+		*/
+		toast.generateToast(
+			'info',
+			'small',
+			'Test Toast',
+			'#ffffff',
+			'orangered',
+			'from-bottom',
+			false,
+			1000
+		);
 	};
 
 	return (
-		<div>
-			<button onClick={handleAddToast}>Add Toast</button>
-			{/* <ToastContainer
+		<React.Fragment>
+			<ToastContainer
 				toastPosition="top-right"
-				toastOffsetX="0"
-				toastOffsetY="0"
-			/> */}
-		</div>
+				toastOffsetX="50"
+				toastOffsetY="50"
+			/>
+			<button onClick={handleAddToast}>Add Toast</button>
+		</React.Fragment>
 	);
 }
 

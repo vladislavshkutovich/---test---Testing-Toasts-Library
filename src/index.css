@@ -19,8 +19,8 @@ button {
 	height: 40px;
 	border-radius: 8px;
 	font-size: 16px;
-	left: 50%;
-	top: 50%;
+	left: 40%;
+	top: 40%;
 	background-color: #e1ff75;
 	cursor: pointer;
 }
