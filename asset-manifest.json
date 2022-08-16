@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/---test---Testing-Toasts-Library/static/css/main.a7d54a95.css",
-    "main.js": "/---test---Testing-Toasts-Library/static/js/main.9b7f01e9.js",
+    "main.css": "/---test---Testing-Toasts-Library/static/css/main.d387aaf5.css",
+    "main.js": "/---test---Testing-Toasts-Library/static/js/main.c49e083d.js",
     "index.html": "/---test---Testing-Toasts-Library/index.html",
-    "main.a7d54a95.css.map": "/---test---Testing-Toasts-Library/static/css/main.a7d54a95.css.map",
-    "main.9b7f01e9.js.map": "/---test---Testing-Toasts-Library/static/js/main.9b7f01e9.js.map"
+    "main.d387aaf5.css.map": "/---test---Testing-Toasts-Library/static/css/main.d387aaf5.css.map",
+    "main.c49e083d.js.map": "/---test---Testing-Toasts-Library/static/js/main.c49e083d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a7d54a95.css",
-    "static/js/main.9b7f01e9.js"
+    "static/css/main.d387aaf5.css",
+    "static/js/main.c49e083d.js"
   ]
 }
